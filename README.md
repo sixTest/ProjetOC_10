@@ -14,9 +14,8 @@ développement logiciel.En utilisant Django REST Framework et l'utilisation des 
 * Installation des dépendances : ```pip install -r requirements.txt```
 * Placez-vous dans le dossier contenant manage.py
 * Lancement du serveur local : ```python manage.py runserver```
-* Ouvrez votre navigateur web a l'url : ```http://127.0.0.1:8000/```
 
-## Ensemble des requetes geré par l'API
+## Ensemble des requetes de l'API
 
 * Register User
 * Login User
